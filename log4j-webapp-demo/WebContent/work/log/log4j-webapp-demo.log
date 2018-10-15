@@ -1,0 +1,8 @@
+0    [http-nio-8080-exec-2] INFO  test.Log4JTestServlet  - info message
+2    [http-nio-8080-exec-2] WARN  test.Log4JTestServlet  - warn message
+3    [http-nio-8080-exec-2] ERROR test.Log4JTestServlet  - error message
+3    [http-nio-8080-exec-2] FATAL test.Log4JTestServlet  - fatal message
+0    [http-nio-8080-exec-2] INFO  test.Log4JTestServlet  - info message
+4    [http-nio-8080-exec-2] WARN  test.Log4JTestServlet  - warn message
+4    [http-nio-8080-exec-2] ERROR test.Log4JTestServlet  - error message
+4    [http-nio-8080-exec-2] FATAL test.Log4JTestServlet  - fatal message

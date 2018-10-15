@@ -1,0 +1,3 @@
+Mark Costa|99-3234-242|Brasil|Rio de Janeiro
+James Patt|33-4545-222|Portugal|Lisbon
+Mary Pole|56-4353-111|Spain|Madrid
